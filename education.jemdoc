@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{example.html}
+= Varun Sivashankar
+[https://linkedin.com/in/varun-sivashankar Math/CS Undergrad] \n
+[https://www.ucla.edu/ University of California, Los Angeles]
+
+== Education
+~~~
+{University of California, Los Angeles (September 2018 - June 2022)}{hi}
+- B.S Mathematics (Honors) & Minor in Computer Science; GPA: 3.98/4.00
+- Courses: Data Structures, Algorithms, Calculus, Linear Algebra, Differential Equations, Probability, Graph Theory, Abstract Algebra, Real Analysis, Numerical Analysis, ML, Adversarial Learning, AI, Topology, Deep Learning, Automata Theory.
+~~~
+
+~~~
+{Dhirubhai Ambani International School (June 2013 - May 2018)}
+- International Baccalaureate (IB) Diploma (45\/45 + 7\/7).
+- Courses: Math HL, Further Math HL, Physics HL, Chemistry HL.
+~~~
+
+
+== Education
+~~~
+{University of California, Los Angeles}
+- B.S Mathematics (Honors) & Minor in Computer Science; GPA: 3.98/4.00
+- Courses: Data Structures, Algorithms, Calculus, Linear Algebra, Differential Equations, Probability, Graph Theory, Abstract Algebra, Real Analysis, Numerical Analysis, ML, Adversarial Learning, AI, Topology, Deep Learning, Automata Theory.
+~~~
+
+~~~
+{Dhirubhai Ambani International School}
+- International Baccalaureate (IB) Diploma (45\/45 + 7\/7).
+- Courses: Math HL, Further Math HL, Physics HL, Chemistry HL.
+~~~

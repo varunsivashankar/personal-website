@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{example.html}
+= Varun Sivashankar
+[https://linkedin.com/in/varun-sivashankar Math/CS Undergrad] \n
+[https://www.ucla.edu/ University of California, Los Angeles]
+
+== Research Experience
+~~~
+{UCLA Cryptography (March 2021 - Present)}
+- Summer Research Intern, Research Assistant (PI: Dr. Amit Sahai).
+- Researching the Learning from Parity with Noise problem using Groebner bases (Post-Quantum Cryptography).
+~~~
+
+~~~
+{UCLA Statistical Machine Learning Lab (September 2020 - Present)}
+- Research Assistant (PI: Dr. Quanquan Gu).
+- Currently researching the Double Descent problem in deep learning theory and linear regression. 
+[https://drive.google.com/file/d/1t_DjZSCxqzna73SeO7SAnDSkgfFuZhHs/view?usp=sharing \[paper\]]
+- Worked on studying the monotonicity of test risk in regularized regression with non-isotropic data.
+[https://drive.google.com/file/d/1h_jxljNVtyoH5e27KK5lY0jDxhMG0Uw5/view?usp=sharing \[paper\]]
+- Proposed a gradient descent learning rate scheduler for regression that provably reduces expected risk.
+[https://drive.google.com/file/d/1M-VkN4KsaLY1gBUsoVlv_bC1ij644htz/view?usp=sharing \[paper\]]
+~~~
+
+
+~~~
+{UCLA Machine Learning and Genomics Lab (April 2020 - February 2021)}
+- Research Assistant (PI: Dr. Sriram Sankararaman)
+- Project on efficient variance component analysis of millions of genomes using linear mixed models simulations.
+- Determined that RHEmc has lower bias in estimating enrichments than S-LDSC.
+[https://drive.google.com/file/d/1zZfTo2zFwqTgOuJwjyzjRM2Y6n4EhXWt/view?usp=sharing \[paper\]]
+~~~
+
+~~~
+{Adversarial Robustness in Machine Learning (September 2020 - December 2020)}
+- Graduate Seminar with Dr. Cho-Jui Hsieh.
+- Discovered that double descent, not local linearity loss, might cause overfitting in adversarial training.
+[https://drive.google.com/file/d/1WIYQOuwP1GV2FUjbAK9iD1u1jpeFq82S/view?usp=sharing \[paper\]]
+~~~
+
+
+~~~
+{UCLA Undergraduate Research Week (March 2020 - May 2020)}
+- Regression-Based Feature Scaling for the k-Nearest Neighbors Algorithm to improve accuracy by 1%.
+[https://www.tinyurl.com/featurescaling \[paper\]]
+~~~
+
+== Awards
+~~~
+- Shivakumar Endowed Scholarship in Computer Science: Merit based scholarship for research at UCLA.
+~~~
+
+
+
+
+
+
+
+

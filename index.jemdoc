@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{example.html}
+= Varun Sivashankar
+[https://linkedin.com/in/varun-sivashankar Math/CS Undergrad] \n
+[https://www.ucla.edu/ University of California, Los Angeles]
+
+~~~
+{}{img_left}{pic.jpg}{alt text}{150px}{}{IMGLINKTARGET}
+I am a rising senior at UCLA studying mathematics and computer science. I am passionate about theoretical computer science, cryptography, deep learning theory and math. I am interested in academic and industrial research.\n
+
+I'm currently working as a Research Intern in cryptography with [http://web.cs.ucla.edu/~sahai/ Dr. Amit Sahai.] I've also worked as a Research Assistant in the [https://www.uclaml.org/ UCLA Statistical Machine Learning Lab] with [http://web.cs.ucla.edu/~qgu/index.html Dr. Quanquan Gu] and in the [https://sriramlab.dgsom.ucla.edu/pages/ Machine Learning and Genomics Lab] with [http://web.cs.ucla.edu/~sriram/ Dr. Sriram Sankararaman]. I was also a STEP Software Engineering Intern at Google.\n
+
+My resume is available [https://tinyurl.com/varunsivashankar here.]
+~~~
+
+
+
+
+== Contact
+Email: [varunsiva33@gmail.com]\n
+LinkedIn: [https://linkedin.com/in/varun-sivashankar varun-sivashankar]\n
+GitHub: [https://github.com/varunsivashankar varunsivashankar]\n
+Quora: [https://www.quora.com/profile/Varun-Sivashankar Varun-Sivashankar]
+
