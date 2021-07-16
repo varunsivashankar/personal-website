@@ -5,28 +5,28 @@
 
 == Industry Experience
 ~~~
-{Google (June 2020 - July 2020)}
-- STEP Software Engineering Intern.
+{Google}
+- STEP Software Engineering Intern (June 2020 - July 2020).
 - Google Apps: Built a chrome extension to help GSuite administrators quickly access preferred company entities.
 - Stored user data with the chrome storage API and implemented mutation observer (JavaScript, HTML).
 ~~~
 
 ~~~
-{Sharekhan by BNP Paribas (July 2019 - August 2019)}
-- Data Science Intern.
+{Sharekhan by BNP Paribas}
+- Data Science Intern (July 2019 - August 2019).
 - Determined probability of client reactivation with R and SQL using Logistic Regression and Random Forest.
 - Predicted a revenue increase of $500,000 by targeting the model’s high-probability clients.
 ~~~
 
 ~~~
-{Fractal Analytics (August 2018)}
-- Data Science Intern.
+{Fractal Analytics}
+- Data Science Intern (August 2018).
 - Worked on Active Noise Cancellation and made a presentation to the Big Data team on the Wiener filter and methods to solve Toeplitz matrix equations using Levinson-Durbin recursion.
 ~~~
 
 ~~~
-{Tonbo Imaging (June 2017)}
-- Computer Vision Intern.
+{Tonbo Imaging}
+- Computer Vision Intern (June 2017).
 - Worked on radiometric calibration of military-grade thermal cameras to modify them for commercial use.
 - Implemented software-NUC (proprietary algorithm to remove residual noise) and edge detection with MATLAB.
 ~~~
