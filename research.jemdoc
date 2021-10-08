@@ -4,50 +4,47 @@
 [https://www.ucla.edu/ University of California, Los Angeles]
 
 == Research Experience
+I am broadly interested in theoretical computer science. In particular, my research experience includes cryptography, combinatorics and machine learning theory.
+
 ~~~
 {UCLA Cryptography}
-- Summer Research Intern, Research Assistant (PI: Dr. Amit Sahai) (March 2021 - Present).
+- Undergraduate Researcher advised by Amit Sahai. (March 2021 - Present).
 - Researching the Learning from Parity with Noise problem using Groebner bases (Post-Quantum Cryptography).
 ~~~
 
 ~~~
 {UCLA Statistical Machine Learning Lab}
-- Research Assistant (PI: Dr. Quanquan Gu) (September 2020 - Present).
-- Currently researching the Double Descent problem in deep learning theory and linear regression. 
-[https://drive.google.com/file/d/1t_DjZSCxqzna73SeO7SAnDSkgfFuZhHs/view?usp=sharing \[paper\]]
-- Worked on studying the monotonicity of test risk in regularized regression with non-isotropic data.
-[https://drive.google.com/file/d/1h_jxljNVtyoH5e27KK5lY0jDxhMG0Uw5/view?usp=sharing \[paper\]]
-- Proposed a gradient descent learning rate scheduler for regression that provably reduces expected risk.
-[https://drive.google.com/file/d/1M-VkN4KsaLY1gBUsoVlv_bC1ij644htz/view?usp=sharing \[paper\]]
+- Undergraduate Researcher advised by Quanquan Gu. (September 2020 - June 2021).
+- Researched the Double Descent problem in deep learning theory and linear regression.
 ~~~
-
 
 ~~~
 {UCLA Machine Learning and Genomics Lab}
-- Research Assistant (PI: Dr. Sriram Sankararaman) (April 2020 - February 2021).
-- Project on efficient variance component analysis of millions of genomes using linear mixed models simulations.
-- Determined that RHEmc has lower bias in estimating enrichments than S-LDSC.
-[https://drive.google.com/file/d/1zZfTo2zFwqTgOuJwjyzjRM2Y6n4EhXWt/view?usp=sharing \[paper\]]
+- Undergraduate Researcher advised by Sriram Sankararaman (April 2020 - February 2021).
+- Variance component analysis of millions of genomes using linear mixed models simulations.
 ~~~
 
+
+== Publications
 ~~~
-{Adversarial Robustness in Machine Learning}
-- Graduate Seminar with Dr. Cho-Jui Hsieh (September 2020 - December 2020).
-- Discovered that double descent, not local linearity loss, might cause overfitting in adversarial training.
+- Varun Sivashankar.  Maximum Uniquely Partitionable Multisets. Under review, 2021.
+[https://arxiv.org/abs/2109.10222 \[arxiv\]]
+- Varun Sivashankar and Nikil Roashan Selvam.  Local Linearity and Double Descent in Catastrophic Overfitting.  9th ACM IKDD CODS and 26th COMAD, 2021.
 [https://drive.google.com/file/d/1WIYQOuwP1GV2FUjbAK9iD1u1jpeFq82S/view?usp=sharing \[paper\]]
 ~~~
 
-
+== Research Projects
 ~~~
-{UCLA Undergraduate Research Week}
-- Student Researcher (March 2020 - May 2020).
-- Regression-Based Feature Scaling for the k-Nearest Neighbors Algorithm to improve accuracy by 1%.
+- Double Descent with Non-Isotropic Data: Presented some bounds that could be useful in ad-dressing a conjecture on monotonicity of test risk in special cases.
+[https://drive.google.com/file/d/1t_DjZSCxqzna73SeO7SAnDSkgfFuZhHs/view?usp=sharing \[paper\]]
+- Monotonic Behavior in Non-Isotropic Linear Regression: Derived some gradients to help address the same monotonocity conjecture.
+[https://drive.google.com/file/d/1h_jxljNVtyoH5e27KK5lY0jDxhMG0Uw5/view?usp=sharing \[paper\]]
+- Gradient Descent mitigates Double Descent in Linear Regression: Proposed a learning rate scheduler for regression that provably reduces expected risk.
+[https://drive.google.com/file/d/1M-VkN4KsaLY1gBUsoVlv_bC1ij644htz/view?usp=sharing \[paper\]]
+- Comparing performance of RHE-mc and S-LDSC in estimating enrichments of genomic data: Determined that RHEmc has lower bias.
+[https://drive.google.com/file/d/1zZfTo2zFwqTgOuJwjyzjRM2Y6n4EhXWt/view?usp=sharing \[paper\]]
+- Feature Scaling for the k-Nearest Neighbors Algorithm: Presented as a talk at the UCLA Undergraduate Research Week poster session.
 [https://www.tinyurl.com/featurescaling \[paper\]]
-~~~
-
-== Awards
-~~~
-- Shivakumar Endowed Scholarship in Computer Science: Merit based scholarship for research at UCLA (2021)
 ~~~
 
 
