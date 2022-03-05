@@ -17,16 +17,3 @@
 - Determined probability of client reactivation with R and SQL using Logistic Regression and Random Forest.
 - Predicted a revenue increase of $500,000 by targeting the model’s high-probability clients.
 ~~~
-
-~~~
-{Fractal Analytics}
-- Data Science Intern (August 2018).
-- Worked on Active Noise Cancellation and made a presentation to the Big Data team on the Wiener filter and methods to solve Toeplitz matrix equations using Levinson-Durbin recursion.
-~~~
-
-~~~
-{Tonbo Imaging}
-- Computer Vision Intern (June 2017).
-- Worked on radiometric calibration of military-grade thermal cameras to modify them for commercial use.
-- Implemented software-NUC (proprietary algorithm to remove residual noise) and edge detection with MATLAB.
-~~~
