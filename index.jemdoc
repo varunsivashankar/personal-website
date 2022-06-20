@@ -7,36 +7,47 @@
 {}{img_left}{pic.jpg}{alt text}{150px}{}{IMGLINKTARGET}
 I recently completed my undergraduate degree in mathematics from UCLA. I will be joining the Algorithms and Theory group at Microsoft Research as a research fellow in July 2022.\n
 
-I am passionate about theoretical computer science, and in particular, my research interests include algorithms, cryptography, combinatorics and graph theory. My CV is available [https://tinyurl.com/varunscv here.]\n
+I am passionate about theoretical computer science, and in particular, my research interests include algorithms, cryptography, combinatorics and graph theory.\n
 
 My advisor at UCLA was [http://web.cs.ucla.edu/~sahai/ Professor Amit Sahai]. I worked with him on research in cryptography in the [http://web.cs.ucla.edu/~theory/ UCLA Theory Group]. I've also done research in combinatorics with [https://math.stanford.edu/~hspink/ Professor Hunter Spink]. Previously, I worked on research in the [https://www.uclaml.org/ UCLA Statistical Machine Learning Lab] with [http://web.cs.ucla.edu/~qgu/index.html Professor Quanquan Gu] and in the [https://sriramlab.dgsom.ucla.edu/pages/ Machine Learning and Genomics Lab] with [http://web.cs.ucla.edu/~sriram/ Professor Sriram Sankararaman]. I was a STEP Software Engineering Intern at Google.\n
 
-UPDATE: I am looking for PhD positions starting in Fall 2023. 
+Here is my [https://tinyurl.com/varunscv CV.] My email is [varunsiva33@gmail.com].\n
+
+*UPDATE:* I am looking for PhD positions starting in Fall 2023. 
 ~~~
 
 == Papers
-~~~
-- Paul Lou, Amit Sahai and Varun Sivashankar. Relinearization Attack on LPN over Large Fields. Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 2022.
-- Varun Sivashankar.  Extremal Uniquely Resolvable Multisets. Under review.
+. Paul Lou, Amit Sahai and Varun Sivashankar. Relinearization Attack on LPN over Large Fields. Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 2022.
+. Varun Sivashankar.  Extremal Uniquely Resolvable Multisets. /Under review./
 [https://arxiv.org/abs/2109.10222 \[arXiv\]]
-- Varun Sivashankar and Nikil Roashan Selvam.  Local Linearity and Double Descent in Catastrophic Overfitting.  9th ACM IKDD CODS and 27th COMAD, 2022.
+. Varun Sivashankar and Nikil Roashan Selvam.  Local Linearity and Double Descent in Catastrophic Overfitting.  9th ACM IKDD CODS and 27th COMAD, 2022.
 [https://arxiv.org/abs/2111.10754 \[arXiv\]]
-~~~
 
 == Awards
-~~~
-- Dean's Prize for Excellence in Research (Mathematics).
-- Shivakumar Endowed Scholarship for research in computer science at UCLA.
-- Google CS Research Mentorship Program (CSRMP) Fellow.
-- Putnam: Rank 708 during freshman year.
-- American Math Contest (AMC 12): Qualified for the American Invitational Math Examination (AIME).
-- University of Waterloo Math Contests – Fermat and Euclid: 99th percentile in both exams.
-~~~
+. Dean's Prize for Excellence in Research (Mathematics).
+. Shivakumar Endowed Scholarship for research in computer science at UCLA.
+. Google CS Research Mentorship Program (CSRMP) Fellow.
+. Putnam: Rank 708 during freshman year.
+. American Math Contest (AMC 12): Qualified for the American Invitational Math Examination (AIME).
+. University of Waterloo Math Contests – Fermat and Euclid: 99th percentile in both exams.
 
-== Contact
+== Teaching
+- Course Reader for CS M146 (Machine Learning) at UCLA.
+- Assistant Instructor at the Los Angeles Math Circle. 
+- AI Workshops Officer at UCLA ACM AI. 
+
+== Education
+- University of California, Los Angeles (2018-22)\n
+B.S. Mathematics (Honors Program). GPA: 3.98\/4.00 (/summa cum laude/)
+-- Math Courses: Calculus, Linear Algebra, Differential Equations, Probability, Graph Theory, Abstract Algebra, Real Analysis, Numerical Analysis, Topology, Differential Geometry, Ramsey Theory. 
+-- CS Courses: Data Structures, Algorithms, Formal Languages and Automata Theory, Machine Learning, Artificial Intelligence, Deep Learning, Operating Systems.
+-- Graduate Courses: Computability and Complexity, Cryptography, Measure Theory, Deep Learning Theory, Adversarial Robustness.
+
+=== Contact
 Email: [varunsiva33@gmail.com]\n
 Google Scholar: [https://scholar.google.com/citations?user=-UbYZ1UAAAAJ&hl=en&oi=ao Varun Sivashankar]\n
 LinkedIn: [https://linkedin.com/in/varun-sivashankar varun-sivashankar]\n
 GitHub: [https://github.com/varunsivashankar varunsivashankar]\n
-Quora: [https://www.quora.com/profile/Varun-Sivashankar Varun-Sivashankar]
+Quora: [https://www.quora.com/profile/Varun-Sivashankar Varun-Sivashankar]\n
+World Cubing Association: [https://www.worldcubeassociation.org/persons/2014SIVA02 Varun Sivashankar]
 
