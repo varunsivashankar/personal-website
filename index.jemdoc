@@ -7,9 +7,9 @@
 {}{img_left}{pic.jpg}{alt text}{150px}{}{IMGLINKTARGET}
 I am currently a research fellow at Microsoft Research in the Algorithms and Theory Group, where my advisor is [https://rakri.github.io/ Ravishankar Krishnaswamy]. I recently completed my undergraduate degree in mathematics from UCLA.\n
 
-I am passionate about theoretical computer science, and in particular, my research interests include algorithms, cryptography, combinatorics and graph theory.\n
+I am passionate about theoretical computer science, and in particular, my research interests include algorithms, combinatorics, cryptography and graph theory.\n
 
-My undergrad advisor at UCLA was [http://web.cs.ucla.edu/~sahai/ Amit Sahai]. I worked with him on research in cryptography in the [http://web.cs.ucla.edu/~theory/ UCLA Theory Group]. I've also done research in combinatorics with [https://math.stanford.edu/~hspink/ Hunter Spink]. Previously, I worked on research in the [https://www.uclaml.org/ UCLA Statistical Machine Learning Lab] with [http://web.cs.ucla.edu/~qgu/index.html Quanquan Gu] and in the [https://sriramlab.dgsom.ucla.edu/pages/ Machine Learning and Genomics Lab] with [http://web.cs.ucla.edu/~sriram/ Sriram Sankararaman]. I was a STEP Software Engineering Intern at Google.\n
+My undergrad advisor at UCLA was [http://web.cs.ucla.edu/~sahai/ Amit Sahai]. I worked with him on research in cryptography in the [http://web.cs.ucla.edu/~theory/ UCLA Theory Group]. I've also done research in combinatorics with [https://math.stanford.edu/~hspink/ Hunter Spink]. Previously, I worked on research in the [https://www.uclaml.org/ UCLA Statistical Machine Learning Lab] with [http://web.cs.ucla.edu/~qgu/index.html Quanquan Gu]. I was a STEP Software Engineering Intern at Google.\n
 
 Here is my [https://tinyurl.com/varunscv CV.] My email is [varunsiva33@gmail.com].\n
 
@@ -19,15 +19,15 @@ Here is my [https://tinyurl.com/varunscv CV.] My email is [varunsiva33@gmail.com
 == Papers
 . *Extremal Uniquely Resolvable Multisets* [https://arxiv.org/abs/2109.10222 \[arXiv\]]\n
 Varun Sivashankar \n
-/SIAM Journal on Discrete Mathematics (SIDMA), 2022./
+SIAM Journal on Discrete Mathematics (SIDMA), 2022.
 . *Relinearization Attack on LPN over Large Fields.* 
 [https://www.cfail.org/_files/ugd/6a3e24_8fc33cfb3c154e71a8ccc705843466c8.pdf \[paper\]] \n
 Paul Lou, Amit Sahai and Varun Sivashankar.\n
-/Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 2022./
+Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 2022.
 . *Local Linearity and Double Descent in Catastrophic Overfitting.* 
 [https://arxiv.org/abs/2111.10754 \[arXiv\]] \n
 Varun Sivashankar and Nikil Roashan Selvam. \n
-/9th ACM IKDD CODS and 27th COMAD, 2022./
+9th ACM IKDD CODS and 27th COMAD, 2022.
 
 
 == Awards
