@@ -1,7 +1,6 @@
-# jemdoc: menu{MENU}{example.html}
 = Varun Sivashankar
-[https://linkedin.com/in/varun-sivashankar Math/CS Undergrad] \n
-[https://www.ucla.edu/ University of California, Los Angeles]
+[https://varunsivashankar.com/ Microsoft Research (Algorithms and Theory)] \n
+[https://varunsivashankar.com/ UCLA Mathematics]
 
 ~~~
 {}{img_left}{pic.jpg}{alt text}{150px}{}{IMGLINKTARGET}
@@ -9,30 +8,39 @@ I am currently a research fellow at Microsoft Research in the Algorithms and The
 
 I am passionate about theoretical computer science, and in particular, my research interests include algorithms, combinatorics, cryptography and graph theory.\n
 
-My undergrad advisor at UCLA was [http://web.cs.ucla.edu/~sahai/ Amit Sahai]. I worked with him on research in cryptography in the [http://web.cs.ucla.edu/~theory/ UCLA Theory Group]. I've also done research in combinatorics with [https://math.stanford.edu/~hspink/ Hunter Spink]. Previously, I worked on research in the [https://www.uclaml.org/ UCLA Statistical Machine Learning Lab] with [http://web.cs.ucla.edu/~qgu/index.html Quanquan Gu]. I was a STEP Software Engineering Intern at Google.\n
+My undergrad advisor at UCLA was [http://web.cs.ucla.edu/~sahai/ Amit Sahai]. I worked with him on algebraic algorithms in the [http://web.cs.ucla.edu/~theory/ UCLA Theory Group]. I've also done research in combinatorics with [https://math.stanford.edu/~hspink/ Hunter Spink]. Previously, I worked on ML theory with [http://web.cs.ucla.edu/~qgu/index.html Quanquan Gu]. I was a STEP Software Engineering Intern at Google.\n
 
 Here is my [https://tinyurl.com/varunscv CV.] My email is [varunsiva33@gmail.com].\n
 
 *UPDATE:* I am looking for PhD positions starting in Fall 2023. 
 ~~~
 
+== Papers in Preparation
+. *A (2.96 + ε)-Approximation for Fair Joint Replenishment Problem with Outliers* \n
+Varun Suriyanarayana, Varun Sivashankar, Siddharth Gollapudi, Ravishankar Krishnaswamy and David Shmoys \n
+/Under review at IPCO/
+. *MembrANNe: Graph Algorithms for Filtered Approximate Nearest Neighbor Search* \n
+Siddharth Gollapudi, Neel Karia, Varun Sivashankar, Ravishankar Krishnaswamy, Harsha Vardhan Simhadri, Nikit Begwani, Swapnil Raz, Yiyong Lin, Yin Zhang, Neelam Mahapatro, Premkumar Srinivasan and Amit Singh \n
+/Under review at the Web Conference (WWW)/
+
+
 == Papers
 . *Extremal Uniquely Resolvable Multisets* [https://arxiv.org/abs/2109.10222 \[arXiv\]]\n
 Varun Sivashankar \n
-SIAM Journal on Discrete Mathematics (SIDMA), 2022.
-. *Relinearization Attack on LPN over Large Fields.* 
+SIAM Journal on Discrete Mathematics (SIDMA), 2022
+. *Relinearization Attack on LPN over Large Fields* 
 [https://www.cfail.org/_files/ugd/6a3e24_8fc33cfb3c154e71a8ccc705843466c8.pdf \[paper\]] \n
-Paul Lou, Amit Sahai and Varun Sivashankar.\n
-Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 2022.
-. *Local Linearity and Double Descent in Catastrophic Overfitting.* 
+Paul Lou, Amit Sahai and Varun Sivashankar\n
+Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 2022
+. *Local Linearity and Double Descent in Catastrophic Overfitting* 
 [https://arxiv.org/abs/2111.10754 \[arXiv\]] \n
-Varun Sivashankar and Nikil Roashan Selvam. \n
-9th ACM IKDD CODS and 27th COMAD, 2022.
+Varun Sivashankar and Nikil Roashan Selvam \n
+9th ACM IKDD CODS and 27th COMAD, 2022
 
 
 == Awards
-. Dean's Prize for Excellence in Research (Mathematics).
-. Shivakumar Endowed Scholarship for research in computer science at UCLA.
+. Dean's Prize for Excellence in Research in Mathematics at UCLA.
+. Shivakumar Endowed Scholarship for Research in Computer Science at UCLA.
 . Google CS Research Mentorship Program (CSRMP) Fellow.
 . Putnam: Rank 708 during freshman year.
 . American Math Contest (AMC 12): Qualified for the American Invitational Math Examination (AIME).

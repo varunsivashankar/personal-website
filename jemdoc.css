@@ -6,25 +6,26 @@ table#tlayout {
     background: white;
 }
 
-body {
+/*body {
     background: white;
     font-family: Georgia, serif;
     padding-bottom: 8px;
     margin: 0;
-}
+}*/
 
-/*<link rel="stylesheet" type="text/css"
+<link rel="stylesheet" type="text/css"
     href="https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css">
 <style>
 
 body {
     background: white;
-    font-family: "Computer Modern Sans", sans-serif;
+/*    font-family: "Computer Modern Sans", sans-serif;
+*/    font-family: "Courier New", monospace;
     padding-bottom: 8px;
     margin: 0;
     font-size: 5em;
 }
-*/
+
 #layout-menu {
     background: #f6f6f6;
     border: 1px solid #dddddd;
