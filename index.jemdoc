@@ -17,14 +17,13 @@ Here is my [https://tinyurl.com/varunscv CV.] My email is [varunsiva@ucla.edu].\
 
 == Papers in Preparation
 . *A (2.96 + ε)-Approximation for Fair Joint Replenishment Problem with Outliers* \n
-Varun Suriyanarayana, Varun Sivashankar, Siddharth Gollapudi, Ravishankar Krishnaswamy and David Shmoys \n
-/Under review at IPCO/
-. *MembrANNe: Graph Algorithms for Filtered Approximate Nearest Neighbor Search* \n
-Siddharth Gollapudi, Neel Karia, Varun Sivashankar, Ravishankar Krishnaswamy, Harsha Vardhan Simhadri, Nikit Begwani, Swapnil Raz, Yiyong Lin, Yin Zhang, Neelam Mahapatro, Premkumar Srinivasan and Amit Singh \n
-/Under review at the Web Conference (WWW)/
+Varun Suriyanarayana, Varun Sivashankar, Siddharth Gollapudi, Ravishankar Krishnaswamy and David Shmoys
 
 
 == Papers
+. *MembrANNe: Graph Algorithms for Filtered Approximate Nearest Neighbor Search* \n
+Siddharth Gollapudi, Neel Karia, Varun Sivashankar, Ravishankar Krishnaswamy, Harsha Vardhan Simhadri, Nikit Begwani, Swapnil Raz, Yiyong Lin, Yin Zhang, Neelam Mahapatro, Premkumar Srinivasan and Amit Singh \n
+The Web Conference (WWW), 2023
 . *Extremal Uniquely Resolvable Multisets* [https://arxiv.org/abs/2109.10222 \[arXiv\]]\n
 Varun Sivashankar \n
 SIAM Journal on Discrete Mathematics (SIDMA), 2022
@@ -42,8 +41,9 @@ Varun Sivashankar and Nikil Roashan Selvam \n
 . Dean's Prize for Excellence in Research in Mathematics at UCLA.
 . Shivakumar Endowed Scholarship for Research in Computer Science at UCLA.
 . Google CS Research Mentorship Program (CSRMP) Fellow.
-. American Math Contest (AMC 12): Qualified for the American Invitational Math Examination (AIME).
-. University of Waterloo Math Contests – Fermat and Euclid: 99th percentile in both exams.
+. Neo Scholar ([www.neo.com neo.com]).
+# . American Math Contest (AMC 12): Qualified for the American Invitational Math Examination (AIME).
+# . University of Waterloo Math Contests – Fermat and Euclid: 99th percentile in both exams.
 
 == Teaching
 - Course Reader for CS M146 (Machine Learning) at UCLA.
@@ -53,9 +53,10 @@ Varun Sivashankar and Nikil Roashan Selvam \n
 == Education
 - University of California, Los Angeles (2018-22)\n
 B.S. Mathematics (Honors Program). GPA: 3.98\/4.00 (/summa cum laude/)
--- Math Courses: Calculus, Linear Algebra, Differential Equations, Probability, Graph Theory, Abstract Algebra, Real Analysis, Complex Analysis, Numerical Analysis, Topology, Differential Geometry, Ramsey Theory, Number Theory. 
--- CS Courses: Data Structures, Algorithms and Complexity, Theoretical Computer Science, Machine Learning, Artificial Intelligence, Deep Learning, Operating Systems.
--- Graduate Courses: Computability and Complexity, Cryptography, Measure Theory, Deep Learning Theory, Adversarial Robustness.
+# -- Advisor: Professor Amit Sahai
+# -- Math Courses: Calculus, Linear Algebra, Differential Equations, Probability, Graph Theory, Abstract Algebra, Real Analysis, Complex Analysis, Numerical Analysis, Topology, Differential Geometry, Ramsey Theory, Number Theory. 
+# -- CS Courses: Data Structures, Algorithms and Complexity, Theoretical Computer Science, Machine Learning, Artificial Intelligence, Deep Learning, Operating Systems.
+# -- Graduate Courses: Computability and Complexity, Cryptography, Measure Theory, Deep Learning Theory, Adversarial Robustness.
 
 === Contact
 Email: [varunsiva@ucla.edu]\n
