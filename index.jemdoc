@@ -19,18 +19,20 @@ Varun Suriyanarayana, Varun Sivashankar, Siddharth Gollapudi, Ravishankar Krishn
 
 
 == Papers
-. *MembrANNe: Graph Algorithms for Filtered Approximate Nearest Neighbor Search* \n
+. *MembrANNe: Graph Algorithms for Filtered Approximate Nearest Neighbor Search* 
+[https://harsha-simhadri.org/pubs/Filtered-DiskANN23.pdf \[paper\]] \n
 Siddharth Gollapudi, Neel Karia, Varun Sivashankar, Ravishankar Krishnaswamy, Harsha Vardhan Simhadri, Nikit Begwani, Swapnil Raz, Yiyong Lin, Yin Zhang, Neelam Mahapatro, Premkumar Srinivasan and Amit Singh \n
 The Web Conference (WWW), 2023
-. *Extremal Uniquely Resolvable Multisets* [https://arxiv.org/abs/2109.10222 \[arXiv\]]\n
+. *Extremal Uniquely Resolvable Multisets* [https://arxiv.org/abs/2109.10222 \[paper\]]\n
 Varun Sivashankar \n
-SIAM Journal on Discrete Mathematics (SIDMA), 2022
+SIAM Journal on Discrete Mathematics (SIDMA), 2023
 . *Relinearization Attack on LPN over Large Fields* 
 [https://www.cfail.org/_files/ugd/6a3e24_8fc33cfb3c154e71a8ccc705843466c8.pdf \[paper\]] \n
 Paul Lou, Amit Sahai and Varun Sivashankar\n
+The ACM Computer Journal, 2023 \n
 Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 2022
 . *Local Linearity and Double Descent in Catastrophic Overfitting* 
-[https://arxiv.org/abs/2111.10754 \[arXiv\]] \n
+[https://arxiv.org/abs/2111.10754 \[paper\]] \n
 Varun Sivashankar and Nikil Roashan Selvam \n
 9th ACM IKDD CODS and 27th COMAD, 2022
 
