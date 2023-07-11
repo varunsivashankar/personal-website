@@ -4,11 +4,9 @@
 
 ~~~
 {}{img_left}{pic2.jpg}{alt text}{150px}{}{IMGLINKTARGET}
-I am currently a research fellow at Microsoft Research in the Algorithms and Theory Group, where my advisor is [https://rakri.github.io/ Ravishankar Krishnaswamy]. I recently completed my undergraduate degree in mathematics from UCLA.\n
+I am an incoming PhD student in Applied and Computational Mathematics at Princeton University. Previously, I was a predoctoral research fellow at Microsoft Research in the Algorithms and Theory Group, where my advisor was [https://rakri.github.io/ Ravishankar Krishnaswamy]. I recently completed my undergraduate degree in mathematics from UCLA, where my advisor was [http://web.cs.ucla.edu/~sahai/ Amit Sahai] in the [http://web.cs.ucla.edu/~theory/ UCLA Theory Group]. I've also done research in combinatorics with [https://math.stanford.edu/~hspink/ Hunter Spink].\n
 
-I am passionate about theoretical computer science, and in particular, my research interests include algorithms, combinatorics and graph theory.\n
-
-My undergrad advisor at UCLA was [http://web.cs.ucla.edu/~sahai/ Amit Sahai]. I worked with him on algebraic algorithms in the [http://web.cs.ucla.edu/~theory/ UCLA Theory Group]. I've also done research in combinatorics with [https://math.stanford.edu/~hspink/ Hunter Spink].\n
+I am passionate about theoretical computer science, and in particular, my research interests include algorithms and combinatorics.\n
 
 Here is my [https://tinyurl.com/varunscv CV.] My email is [varunsiva@ucla.edu].\n
 ~~~
@@ -17,7 +15,7 @@ Here is my [https://tinyurl.com/varunscv CV.] My email is [varunsiva@ucla.edu].\
 . *Composable Coresets for Determinant Maximization: Greedy is Almost Optimal* \n
 Siddharth Gollapudi, Sepideh Mahabadi and Varun Sivashankar
 . *A (2.96 + ε)-Approximation for Fair Joint Replenishment with Outliers* \n
-Siddharth Gollapudi, Ravishankar Krishnaswamy, David Shmoys, Varun Sivashankar and Varun Suriyanarayana
+Varun Suriyanarayana, Varun Sivashankar, Siddharth Gollapudi, David Shmoys
 
 
 == Papers
@@ -33,10 +31,6 @@ SIAM Journal on Discrete Mathematics (SIDMA), 2023
 Paul Lou, Amit Sahai and Varun Sivashankar\n
 The ACM Computer Journal, 2023 \n
 Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 2022
-. *Local Linearity and Double Descent in Catastrophic Overfitting* 
-[https://arxiv.org/abs/2111.10754 \[paper\]] \n
-Nikil Roashan Selvam and Varun Sivashankar\n
-9th ACM IKDD CODS and 27th COMAD (Student Abstract), 2022
 
 
 == Awards
