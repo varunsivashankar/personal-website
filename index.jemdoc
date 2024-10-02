@@ -4,11 +4,11 @@
 
 ~~~
 {}{img_left}{pic2.jpg}{alt text}{150px}{}{IMGLINKTARGET}
-I am a PhD student in Applied and Computational Mathematics at Princeton University. I was a predoctoral research fellow at Microsoft Research in the Algorithms and Theory Group where my advisor was [https://rakri.github.io/ Ravishankar Krishnaswamy]. I completed my undergraduate degree in mathematics from UCLA where my advisor was [http://web.cs.ucla.edu/~sahai/ Amit Sahai] in the [http://web.cs.ucla.edu/~theory/ UCLA Theory Group]. I've also done research in combinatorics with [https://math.stanford.edu/~hspink/ Hunter Spink].\n
+I am a PhD student in Applied and Computational Mathematics at Princeton University. I am advised by [https://sites.google.com/princeton.edu/matija-bucic/home Matija Bucic] and [https://web.math.princeton.edu/~nalon/ Noga Alon]. I was a predoctoral research fellow at Microsoft Research in the Algorithms and Theory Group where my advisor was [https://rakri.github.io/ Ravishankar Krishnaswamy]. I completed my undergraduate degree in mathematics from UCLA where my advisor was [http://web.cs.ucla.edu/~sahai/ Amit Sahai].\n
 
 My research interests include combinatorics, algorithms and theoretical computer science.\n
 
-Here is my [https://tinyurl.com/varunscv CV.] My email is [varunsiva@ucla.edu].\n
+Here is my [https://tinyurl.com/varunscv CV.] My email is [varunsiva@princeton.edu].\n
 ~~~
 
 == Papers
@@ -41,9 +41,10 @@ Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 20
 # . University of Waterloo Math Contests – Fermat and Euclid: 99th percentile in both exams.
 
 == Teaching
-- Course Reader for CS M146 (Machine Learning) at UCLA.
-- Assistant Instructor at the Los Angeles Math Circle. 
-- AI Workshops Officer at UCLA ACM AI. 
+- TA for Combinatorial Mathematics (MAT 377) at Princeton (Fall 2024).
+- Course Reader for Machine Learning (CS M146) at UCLA (Winter 2021).
+- Assistant Instructor at the Los Angeles Math Circle (Winter and Spring 2019).
+- AI Workshops Officer at UCLA ACM AI (2019 - 2021).
 
 == Education
 - University of California, Los Angeles (2018-22)\n
@@ -54,7 +55,7 @@ B.S. Mathematics (Honors Program). GPA: 3.98\/4.00 (/summa cum laude/)
 # -- Graduate Courses: Computability and Complexity, Cryptography, Measure Theory, Deep Learning Theory, Adversarial Robustness.
 
 === Contact
-Email: [varunsiva@ucla.edu]\n
+Email: [varunsiva@princeton.edu]\n
 Google Scholar: [https://scholar.google.com/citations?user=-UbYZ1UAAAAJ&hl=en&oi=ao Varun Sivashankar]\n
 LinkedIn: [https://linkedin.com/in/varun-sivashankar varun-sivashankar]\n
 GitHub: [https://github.com/varunsivashankar varunsivashankar]\n
