@@ -20,7 +20,7 @@ Symposium on Discrete Algorithms (SODA), 2024
 . *Composable Coresets for Determinant Maximization: Greedy is Almost Optimal* [https://arxiv.org/abs/2309.15286 \[paper\]]\n
 Siddharth Gollapudi, Sepideh Mahabadi and Varun Sivashankar \n
 Neural Information Processing Systems (NeurIPS), 2023
-. *MembrANNe: Graph Algorithms for Filtered Approximate Nearest Neighbor Search* 
+. *Filtered-DiskANN: Graph Algorithms for Filtered Approximate Nearest Neighbor Search* 
 [https://harsha-simhadri.org/pubs/Filtered-DiskANN23.pdf \[paper\]] \n
 Siddharth Gollapudi, Neel Karia, Varun Sivashankar, Ravishankar Krishnaswamy, Harsha Vardhan Simhadri, Nikit Begwani, Swapnil Raz, Yiyong Lin, Yin Zhang, Neelam Mahapatro, Premkumar Srinivasan and Amit Singh \n
 The Web Conference (WWW), 2023
@@ -32,6 +32,10 @@ SIAM Journal on Discrete Mathematics (SIDMA), 2023
 Paul Lou, Amit Sahai and Varun Sivashankar\n
 The ACM Computer Journal, 2023 \n
 Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 2022
+. *Local Linearity and Double Descent in Catastrophic Overfitting* 
+[https://arxiv.org/abs/2111.10754 \[paper\]] \n
+Nikil Selvam and Varun Sivashankar \n
+ACM IKDD CODS-COMAD (Student Abstract), 2022
 
 
 == Awards
