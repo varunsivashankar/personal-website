@@ -1,3 +1,6 @@
+/* 1. Use Google Fonts (Reliable) instead of the dead RawGit link */
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
 /* Default css file for jemdoc. */
 
 table#tlayout {
@@ -6,40 +9,30 @@ table#tlayout {
     background: white;
 }
 
-/*body {
+body {
     background: white;
+    /* 2. Only define font-family ONCE. */
+    font-family: "Courier Prime", "Courier New", monospace;
     font-family: Georgia, serif;
     padding-bottom: 8px;
     margin: 0;
-}*/
-
-<link rel="stylesheet" type="text/css"
-    href="https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css">
-<style>
-
-body {
-    background: white;
-/*    font-family: "Computer Modern Sans", sans-serif;
-*/    font-family: "Courier New", monospace;
-    padding-bottom: 8px;
-    margin: 0;
-    font-size: 5em;
+    /* 3. Keep size readable */
+    font-size: 1em;
 }
 
+
+
 #layout-menu {
+    /* Added this to ensure menu matches the rest of the page font */
+    border: none;
     background: #f6f6f6;
-    border: 1px solid #dddddd;
-    padding-top: 0.5em;
-    padding-left: 8px;
-    padding-right: 80px;
-    font-size: 1em;
     width: auto;
-    white-space: nowrap;
-    text-align: left;
-    vertical-align: top;
+    font-family: "Courier Prime", "Courier New", monospace;
+    font-family: Georgia, serif;
 }
 
 #layout-menu td {
+    border: none;
     background: #f4f4f4;
     vertical-align: top;
 }
@@ -66,7 +59,8 @@ tt {
 
 pre, tt {
     font-size: 90%;
-    font-family: monaco, monospace;
+    /* Changed to match main font for consistency */
+    font-family: "Courier Prime", monospace;
 }
 
 a, a > tt {
@@ -109,7 +103,6 @@ div#toptitle {
     border-bottom: 3px double gray;
 }
 
-/* Reduce space if we begin the page with a title. */
 div#toptitle + h2, div#toptitle + h3 {
     margin-top: -0.7em;
 }
@@ -129,7 +122,6 @@ strong {
     font-weight: bold;
 }
 
-
 h1, h2, h3 {
     color: #527bbd;
     margin-top: 0.7em;
@@ -138,6 +130,8 @@ h1, h2, h3 {
     line-height: 1.0;
     padding-top: 0.5em;
     border-bottom: 1px solid #aaaaaa;
+    /* Headers look best in Sans-Serif (Verdana) to contrast the typewriter body */
+    font-family: Verdana, sans-serif;
 }
 
 h1 {
@@ -232,7 +226,6 @@ li p, dd p {
     margin-bottom: 0.3em;
 }
 
-
 ol ol {
     list-style-type: lower-alpha;
 }
@@ -254,8 +247,7 @@ div.codeblock, div.infoblock {
 div.blocktitle {
     font-weight: bold;
     color: #527bbd;
-/*    color: #cd7b62;
-*/    margin-top: 1.2em;
+    margin-top: 1.2em;
     margin-bottom: 0.1em;
 }
 
@@ -265,9 +257,6 @@ div.blockcontent {
 }
 
 div.infoblock > div.blockcontent {
-/*    background: #ffffee;
-
-*/
     background: #f6f6f6;
 }
 
@@ -291,25 +280,12 @@ div.codeblock > div.blockcontent {
     background: #f6f6f6;
 }
 
-span.pycommand {
-    color: #000070;
-}
-
-span.statement {
-    color: #008800;
-}
-span.builtin {
-    color: #000088;
-}
-span.special {
-    color: #990000;
-}
-span.operator {
-    color: #880000;
-}
-span.error {
-    color: #aa0000;
-}
+span.pycommand { color: #000070; }
+span.statement { color: #008800; }
+span.builtin { color: #000088; }
+span.special { color: #990000; }
+span.operator { color: #880000; }
+span.error { color: #aa0000; }
 span.comment, span.comment > *, span.string, span.string > * {
     color: #606060;
 }

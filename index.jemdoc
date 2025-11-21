@@ -12,30 +12,33 @@ Here is my [https://tinyurl.com/varunscv CV.] My email is [varunsiva@princeton.e
 ~~~
 
 == Papers
+. *Intersecting Hypergraphs with Large Cover Number* [https://arxiv.org/abs/2503.14918 \[paper\]]\n
+Matija Bucic, Vanshika Jain, Varun Sivashankar
+. *Ramsey-Turan Variant of Density Regularity of Equations* [https://arxiv.org/abs/2507.22831 \[paper\]]\n
+Matija Bucic, Micha Christoph, Jaehoon Kim, Hyunwoo Lee, Varun Sivashankar
+. *Tree Independence Number V: Walls and Claws* [https://arxiv.org/abs/2501.14658 \[paper\]]\n
+Maria Chudnovsky, Julien Codsi, Daniel Lokshtanov, Martin Milanič, Varun Sivashankar
 . *Maximum Shattering* [https://arxiv.org/abs/2409.12945 \[paper\]]\n
-Noga Alon, Varun Sivashankar and Daniel Zhu
+Noga Alon, Varun Sivashankar and Daniel Zhu \n
+/Journal of Combinatorial Designs/, 2025
 . *Improved Approximation Algorithms for the Joint Replenishment Problem with Outliers, and with Fairness Constraints* [https://arxiv.org/abs/2308.04846 \[paper\]]\n
 Varun Suriyanarayana, Varun Sivashankar, Siddharth Gollapudi, David Shmoys \n
-Symposium on Discrete Algorithms (SODA), 2024
+/Symposium on Discrete Algorithms (SODA)/, 2024
 . *Composable Coresets for Determinant Maximization: Greedy is Almost Optimal* [https://arxiv.org/abs/2309.15286 \[paper\]]\n
 Siddharth Gollapudi, Sepideh Mahabadi and Varun Sivashankar \n
-Neural Information Processing Systems (NeurIPS), 2023
+/Neural Information Processing Systems (NeurIPS)/, 2023
 . *Filtered-DiskANN: Graph Algorithms for Filtered Approximate Nearest Neighbor Search* 
 [https://harsha-simhadri.org/pubs/Filtered-DiskANN23.pdf \[paper\]] \n
 Siddharth Gollapudi, Neel Karia, Varun Sivashankar, Ravishankar Krishnaswamy, Harsha Vardhan Simhadri, Nikit Begwani, Swapnil Raz, Yiyong Lin, Yin Zhang, Neelam Mahapatro, Premkumar Srinivasan and Amit Singh \n
-The Web Conference (WWW), 2023
+/The Web Conference (WWW)/, 2023
 . *Extremal Uniquely Resolvable Multisets* [https://arxiv.org/abs/2109.10222 \[paper\]]\n
 Varun Sivashankar \n
-SIAM Journal on Discrete Mathematics (SIDMA), 2023
+/SIAM Journal on Discrete Mathematics (SIDMA)/, 2023
 . *Relinearization Attack on LPN over Large Fields* 
 [https://www.cfail.org/_files/ugd/6a3e24_8fc33cfb3c154e71a8ccc705843466c8.pdf \[paper\]] \n
 Paul Lou, Amit Sahai and Varun Sivashankar\n
-The ACM Computer Journal, 2023 \n
-Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL), 2022
-. *Local Linearity and Double Descent in Catastrophic Overfitting* 
-[https://arxiv.org/abs/2111.10754 \[paper\]] \n
-Nikil Selvam and Varun Sivashankar \n
-ACM IKDD CODS-COMAD (Student Abstract), 2022
+/The ACM Computer Journal/, 2023 \n
+/Conference for Failed Approaches and Insightful Losses in Cryptology (CFAIL)/, 2022
 
 
 == Awards
@@ -47,7 +50,8 @@ ACM IKDD CODS-COMAD (Student Abstract), 2022
 # . University of Waterloo Math Contests – Fermat and Euclid: 99th percentile in both exams.
 
 == Teaching
-- TA for Combinatorial Mathematics (MAT 377) at Princeton (Fall 2024).
+- TA for Combinatorial Mathematics (MAT 377) at Princeton (Fall 2024, Fall 2025).
+- TA for Graph Theory (MAT 375) at Princeton (Spring 2025).
 - Course Reader for Machine Learning (CS M146) at UCLA (Winter 2021).
 - Assistant Instructor at the Los Angeles Math Circle (Winter and Spring 2019).
 - AI Workshops Officer at UCLA ACM AI (2019 - 2021).
